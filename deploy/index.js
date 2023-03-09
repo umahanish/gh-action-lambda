@@ -17329,7 +17329,7 @@ var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _argume
 };
 
 const handler = (event) => __awaiter(void 0, void 0, void 0, function* () {
-    const max = 999;
+    const max = 888;
     const val = lodash__WEBPACK_IMPORTED_MODULE_0__.random(max);
     const response = {
         statusCode: 200,
